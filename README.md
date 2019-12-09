@@ -1,5 +1,5 @@
 # EC601_miniProject3
-my react native project project is larger than 100 M. So, I upload my project on Google drive. the link is. https://drive.google.com/open?id=1almQYvMGVepM-UujbNVniVa9bkjvRCPo
+My react native project project is larger than 100 M. So, I upload my project on Google drive. the link is. https://drive.google.com/open?id=1almQYvMGVepM-UujbNVniVa9bkjvRCPo
 
 ## React Native
 React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities.React Native does not use HTML. Instead, messages from the JavaScript thread are used to manipulate native views.
