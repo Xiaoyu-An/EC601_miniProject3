@@ -16,17 +16,17 @@ Android Studio is the official integrated development environment (IDE) for Goog
 ## My Demo Program using React Native (a calendar app):
 ### How to run this program on Mac ios:
 1. Install Xcode
-2.Clone this repository:
+2. Clone this repository:
 ```
 https://github.com/Xiaoyu-An/EC601_miniProject3.git
 
 ```
-3.Run npx react-native run-ios inside AwesomeProject folder:
+3. Run npx react-native run-ios inside AwesomeProject folder:
 ```
 npx react-native run-ios
 
 ```
-4.Because my project is a Calendar App, so I need to install time.
+4. Because my project is a Calendar App, so I need to install time.
 ```
 npm install moment -- save
 ```
